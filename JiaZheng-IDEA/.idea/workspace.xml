@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="JiaZheng" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e42b9c68-7c65-4f08-820d-7d5a1ce65750" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectId" id="1f8E9blkAqGuBfqk5sHDAxJzDA9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\ProgrameFile-dev\IDEA\WorkSpack2018\JiaZheng\web" />
+      <recent name="D:\ProgrameFile-dev\IDEA\WorkSpack2018\JiaZheng\web\WEB-INF\lib" />
+      <recent name="D:\ProgrameFile-dev\IDEA\WorkSpack2018\JiaZheng\src" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="JiaZheng" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.0.49" ALTERNATIVE_JRE_ENABLED="true" ALTERNATIVE_JRE_PATH="1.8">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/JiaZheng/" />
+      <option name="UPDATING_POLICY" value="redeploy-artifacts" />
+      <deployment>
+        <artifact name="JiaZheng">
+          <settings>
+            <option name="CONTEXT_PATH" value="/JiaZheng" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_JiaZheng_2" />
+        <option name="DEPLOY_TOMCAT_APPS" value="true" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="60537" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="JiaZheng" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e42b9c68-7c65-4f08-820d-7d5a1ce65750" name="Default Changelist" comment="" />
+      <created>1595591168042</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595591168042</updated>
+      <workItem from="1595591169295" duration="908000" />
+      <workItem from="1595592145301" duration="2289000" />
+      <workItem from="1595667457168" duration="2734000" />
+      <workItem from="1595726214418" duration="1358000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="176" y="57" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1595676386360">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="176" y="57" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1595676386360" />
+    <state x="402" y="318" key="#com.intellij.javaee.module.view.common.J2EE.J2EEDeploymentDescriptorLocationPanel.changeDDPath" timestamp="1595591386927">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="402" y="318" key="#com.intellij.javaee.module.view.common.J2EE.J2EEDeploymentDescriptorLocationPanel.changeDDPath/0.0.1536.824@0.0.1536.824" timestamp="1595591386927" />
+    <state x="616" y="167" key="FileChooserDialogImpl" timestamp="1595591620445">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="616" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1595591620445" />
+    <state width="1024" height="216" key="GridCell.Tab.0.bottom" timestamp="1595726683864">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="216" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1595726683864" />
+    <state width="1024" height="216" key="GridCell.Tab.0.center" timestamp="1595726683863">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="216" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1595726683863" />
+    <state width="1024" height="216" key="GridCell.Tab.0.left" timestamp="1595726683863">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="216" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1595726683863" />
+    <state width="1024" height="216" key="GridCell.Tab.0.right" timestamp="1595726683863">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="216" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1595726683863" />
+    <state width="1024" height="216" key="GridCell.Tab.1.bottom" timestamp="1595726683864">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="216" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1595726683864" />
+    <state width="1024" height="216" key="GridCell.Tab.1.center" timestamp="1595726683864">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="216" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1595726683864" />
+    <state width="1024" height="216" key="GridCell.Tab.1.left" timestamp="1595726683864">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="216" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1595726683864" />
+    <state width="1024" height="216" key="GridCell.Tab.1.right" timestamp="1595726683864">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="216" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1595726683864" />
+    <state width="1024" height="216" key="GridCell.Tab.2.bottom" timestamp="1595726683864">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="216" key="GridCell.Tab.2.bottom/0.0.1536.824@0.0.1536.824" timestamp="1595726683864" />
+    <state width="1024" height="216" key="GridCell.Tab.2.center" timestamp="1595726683864">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="216" key="GridCell.Tab.2.center/0.0.1536.824@0.0.1536.824" timestamp="1595726683864" />
+    <state width="1024" height="216" key="GridCell.Tab.2.left" timestamp="1595726683864">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="216" key="GridCell.Tab.2.left/0.0.1536.824@0.0.1536.824" timestamp="1595726683864" />
+    <state width="1024" height="216" key="GridCell.Tab.2.right" timestamp="1595726683864">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="216" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1595726683864" />
+    <state x="316" y="0" key="SettingsEditor" timestamp="1595591990536">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="316" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1595591990536" />
+    <state x="467" y="144" width="602" height="536" key="find.popup" timestamp="1595726440126">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="467" y="144" width="602" height="536" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1595726440126" />
+    <state x="97" y="44" key="new project wizard" timestamp="1595591317622">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="97" y="44" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1595591317622" />
+  </component>
+</project>
